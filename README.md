@@ -1,2 +1,2 @@
 # azure
-new repo
+new repositorie
